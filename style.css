@@ -84,7 +84,7 @@ img {
     z-index:10;
 }
 
-/* @media (max-width: 600px) {
+@media (max-width: 600px) {
     .card{
         width: 60vw;   
     }
@@ -92,4 +92,4 @@ img {
     #card2 { transform: translate(-50%, -50%) rotate(-6deg); }
     #card3 { transform: translate(-50%, -50%) rotate(-12deg); }
     #card4 { transform: translate(-50%, -50%) rotate(-18deg); }
-}*/
+}
